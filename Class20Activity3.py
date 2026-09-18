@@ -9,6 +9,6 @@ for i in range(0,7):
     else:
         sunny += 1
 if(sunny > rainy):
-    print("Sunny days are more than Rainy days")
-else:
     print("Good weather")
+else:
+    print("Bad weather")
